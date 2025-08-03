@@ -2,9 +2,9 @@
 
 A dynamic React TypeScript application showcasing theme switching capabilities with responsive design. This project demonstrates modern frontend development practices including theme management, responsive layouts, and animated UI components.
 
-![MultiTheme Store Screenshot](image-1.png)
-![MultiTheme Store Screenshot](image-2.png)
-![MultiTheme Store Screenshot](image-3.png)
+![MultiTheme Store Screenshot](image.png)
+![MultiTheme Store Screenshot](image2.png)
+![MultiTheme Store Screenshot](image3.png)
 
 ## Features
 
@@ -37,7 +37,7 @@ A dynamic React TypeScript application showcasing theme switching capabilities w
 1. Clone the repository
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Prathamesh532/Hipster-Assessment-React-JS-Theme-Switcher-.git
    cd project
    ```
 
